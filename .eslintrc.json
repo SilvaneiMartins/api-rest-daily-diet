@@ -3,11 +3,12 @@
         "@rocketseat/eslint-config/node"
     ],
     "rules": {
-       "prettier/prettier": [
-            "error",
-            {
-                "tabWidth": 4
-            }
-       ]
+        // "prettier/prettier": [
+        //     "error",
+        //     {
+        //         "tabWidth": 4,
+        //     }
+        // ],
+        "prettier/prettier": "off"
     }
 }
