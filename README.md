@@ -11,7 +11,7 @@
     <br />
 </h1>
 
-## ✅ Instrução para rodar o projeto na maquina local;
+# Instrução executar o projeto;
 
 Clone o projeto em sua máquina, rode o comando `yarn` e em seguida `yarn android` caso seja android, caso seja macbook yarn e em seguindo `yarn ios`. Atualmente o projeto não necessita de nenhuma variável ambiente, então, é simples;
 
@@ -34,3 +34,28 @@ $ npm install
 # Executar a aplicação utilizando npm
 $ npm run dev
 ```
+# Tecnologias do projeto:
+-   [Knex](https://knexjs.org/)
+-   [Fastify](https://fastify.io/)
+-   [Typescript](https://www.typescriptlang.org/)
+
+# Licença
+Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/backend-python/blob/master/LICENSE) para maiores informações.
+
+# Desenvolvedor
+<a href="https://github.com/SilvaneiMartins">
+    <img
+        style="border-radius:50%"
+        src="https://github.com/SilvaneiMartins.png"
+        width="100px;"
+        alt="Silvanei Martins"
+    />
+    <br />
+    <sub>
+        <b>Silvanei de Almeida Martins</b>
+    </sub>
+    <br />
+</a>
+    🚀
+ </a>
+Feito com ❤️ por Silvanei Martins
