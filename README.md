@@ -13,14 +13,14 @@
 
 # Instrução executar o projeto;
 
-Clone o projeto em sua máquina, rode o comando `yarn` e em seguida `yarn android` caso seja android, caso seja macbook yarn e em seguindo `yarn ios`. Atualmente o projeto não necessita de nenhuma variável ambiente, então, é simples;
+Clone o projeto em sua máquina, rode o comando `yarn` e em seguida `yarn dev` para executar o api.
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/Statup-Concursos/statup-concursos-app
+$ git clone https://github.com/SilvaneiMartins/api-rest-daily-diet
 
 # Acessar a pasta do projeto
-$ cd statup-concursos-app
+$ cd api-rest-daily-diet
 
 # Instalar as dependências utilizando yarn
 $ yarn
@@ -40,7 +40,7 @@ $ npm run dev
 -   [Typescript](https://www.typescriptlang.org/)
 
 # Licença
-Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/backend-python/blob/master/LICENSE) para maiores informações.
+Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/api-rest-daily-diet/blob/master/LICENSE) para maiores informações.
 
 # Desenvolvedor
 <a href="https://github.com/SilvaneiMartins">
