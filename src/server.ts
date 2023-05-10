@@ -15,5 +15,5 @@ app.register(transactionsRoutes, {
 app.listen({
     port: env.PORT,
 }).then(() => {
-    console.log(`Server is running on port ${env.PORT}`);
+    console.log(`🚀 O sevidor está rodando na porta ${env.PORT}`);
 });
