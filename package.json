@@ -4,10 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "test": "vitest",
         "dev": "tsx watch src/server.ts",
-        "knex": "node --no-warnings --loader tsx ./node_modules/knex/bin/cli.js --knexfile ./knexfile.ts",
         "lint": "eslint src --ext .ts",
-        "lintfix": "eslint src --ext .ts --fix"
+        "lintfix": "eslint src --ext .ts --fix",
+        "knex": "node --no-warnings --loader tsx ./node_modules/knex/bin/cli.js --knexfile ./knexfile.ts"
     },
     "keywords": [],
     "author": "",
@@ -26,6 +27,7 @@
         "eslint": "^8.39.0",
         "sqlite3": "^5.1.6",
         "tsx": "^3.12.7",
-        "typescript": "^5.0.4"
+        "typescript": "^5.0.4",
+        "vitest": "^0.31.0"
     }
 }
