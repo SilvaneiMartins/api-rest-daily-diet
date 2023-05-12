@@ -21,3 +21,7 @@ test('O usuário consegue criar uma nova transação', async () => {
         })
         .expect(201);
 });
+
+test('O usuário consegue visualizar uma transação', async () => {
+
+})
