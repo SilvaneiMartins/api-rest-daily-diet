@@ -6,6 +6,8 @@
 	🚧  EM CONSTRUÇÃO...  🚧
 </h3>
 
+Projeto do curso da Rockeseat Ignite Node.
+
 <h1 align="center">
     <a href="https://imgur.com/PdtSey7"><img src="https://i.imgur.com/PdtSey7.jpg" title="source: imgur.com" /></a>
     <br />
